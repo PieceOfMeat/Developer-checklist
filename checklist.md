@@ -396,5 +396,5 @@ jqxhr.complete(function(){ alert("second complete"); });
 
 1. [PHP: The Right Way](http://www.phptherightway.com/) Общие рекомендации, как правильно писать на PHP, полезные ссылки и обсуждения
 2. [Patterns, UML and Refactoring](http://sourcemaking.com/) Паттерны, антипаттерны, примеры использования, в т.ч. на PHP
-3. The Definitive Guide to Yii [версия на русском] Обязательное чтение для программистов Yii, хорошо структурированный документ, позволяющий восполнить пробелы во всех аспектах использования фреймворка
+3. [The Definitive Guide to Yii](http://www.yiiframework.com/doc/guide/) [[ru]](http://www.yiiframework.com/doc/guide/1.1/ru/index) Обязательное чтение для программистов Yii, хорошо структурированный документ, позволяющий восполнить пробелы во всех аспектах использования фреймворка
 4. [Best MVC Practices](http://www.yiiframework.com/doc/guide/1.1/en/basics.best-practices) [[ru]](http://www.yiiframework.com/doc/guide/1.1/ru/basics.best-practices) Подраздел Definitive Guide to Yii, описывающий наилучший способ разделения логики по слоям MVC
