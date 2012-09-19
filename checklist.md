@@ -386,7 +386,7 @@ jqxhr.complete(function(){ alert("second complete"); });
 
 1. [Habrahabr: Три ключевых принципа ПО, которые вы должны понимать](http://habrahabr.ru/post/144611/)
 2. [Zen Of Python](http://ru.wikipedia.org/wiki/Python#.D0.A4.D0.B8.D0.BB.D0.BE.D1.81.D0.BE.D1.84.D0.B8.D1.8F)
-3. [Wikipedia: KISS](http://ru.wikipedia.org/wiki/KISS_(принцип))
+3. [Wikipedia: KISS](http://ru.wikipedia.org/wiki/KISS_(принцип\))
 4. [Wikipedia: DRY](http://ru.wikipedia.org/wiki/Don't_repeat_yourself)
 5. [Wikipedia: YAGNI](http://ru.wikipedia.org/wiki/Принцип_YAGNI)
 
