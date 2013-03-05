@@ -302,6 +302,13 @@ if ($user->role == App::ROLE_ADMINISTRATOR) {
 // Код зависит только от конкретного контроллера и экшена
 <?php echo CHtml::link('Blog Post', array('post/show', 'id'=>43)); ?>
 
+// Также нужно учитывать случаи, когда нужно получить url не для ссылки на документ или статический ресурс;
+// для этого случая в Yii есть метод
+// CApplication::createUrl(string $route, array $params=array ( ), string $ampersand='&')
+
+<?php echo Yii::app()->createUrl('foo/bar', array('a' => 'b', 'c' => 'd')); ?>
+
+
 ```
 
 ###JavaScript
